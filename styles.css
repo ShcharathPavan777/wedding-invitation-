@@ -329,7 +329,7 @@ a{color:inherit; text-decoration:none}
 .photoCard img{
   width:100%;
   display:block;
-  filter: grayscale(0) contrast(1);
+  filter:none;
 }
 .footerNote{
   text-align:center;
