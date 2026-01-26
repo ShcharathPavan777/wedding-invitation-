@@ -2,8 +2,8 @@
    EDIT THESE VALUES
    ========================= */
 const INVITE = {
-  brideName: "keerthy",
-  groomName: "pavan",
+  brideName: "pavan",
+  groomName: "keerthy",
   heroScript: "We Do",
   heroKicker: "TOGETHER WITH THEIR FAMILIES",
   heroSub: "INVITE YOU TO THEIR WEDDING CELEBRATION",
@@ -33,11 +33,11 @@ const INVITE = {
 
   // Details cards
   dressTitle: "DRESS CODE",
-  dressText: "Semi-formal/formal and elegant. Feel free to add a touch of gold to match our theme.",
+  dressText: "Semi-formal/formal and elegant.",
   transportTitle: "TRANSPORTATION",
-  transportText: "Shuttles will be available to transport guests from the ceremony to the reception and vice versa.",
+  transportText: "Shuttles will be available to transport out-of-state-guests from the ceremony to the reception and vice versa.",
   stayTitle: "ACCOMMODATION",
-  stayText: "We reserved rooms for you at a Hotel , minutes from the venue. ",
+  stayText: "We reserved rooms for you at a Hotel for out-of-state-guests , minutes from the venue. ",
 
   // RSVP section
   rsvpTitle: "RSVP",
