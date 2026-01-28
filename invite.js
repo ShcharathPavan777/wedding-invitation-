@@ -34,10 +34,10 @@ const INVITE = {
   // Details cards
   dressTitle: "DRESS CODE",
   dressText: "Semi-formal/formal and elegant.",
-  transportTitle: "TRANSPORTATION",
-  transportText: "Shuttles will be available to transport out-of-state-guests from the ceremony to the reception and vice versa.",
-  stayTitle: "ACCOMMODATION",
-  stayText: "We reserved rooms for you at a Hotel for out-of-state-guests , minutes from the venue. ",
+  transportTitle: "PRE-WEDDING CELEBRATION",
+  transportText: "Pre-Wedding celebration will be done on 18,19. please add a touch of yellow and white for the event.",
+  stayTitle: "MEHENDI",
+  stayText: "Mehendi would be conducted on 19th and the dress code is casual or a touch of green. ",
 
   // RSVP section
   rsvpTitle: "RSVP",
