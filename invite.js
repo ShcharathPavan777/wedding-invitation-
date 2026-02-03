@@ -35,9 +35,9 @@ const INVITE = {
   dressTitle: "DRESS CODE",
   dressText: "Semi-formal/formal and elegant.",
   transportTitle: "PRE-WEDDING CELEBRATION",
-  transportText: "Pre-Wedding celebration will be done on 18,19. please add a touch of yellow and white for the event.",
+  transportText: "Pre-Wedding celebration will be done on 19th. please add a touch of yellow and white for the event.",
   stayTitle: "MEHENDI",
-  stayText: "Mehendi would be conducted on 19th and the dress code is casual or a touch of green. ",
+  stayText: "Mehendi would be conducted on 20th and the dress code is casual or a touch of green. ",
 
   // RSVP section
   rsvpTitle: "RSVP",
